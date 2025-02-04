@@ -1,0 +1,8 @@
+.main-header {
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    font-weight: 100;
+    padding: 6rem 1rem 3rem;
+}
